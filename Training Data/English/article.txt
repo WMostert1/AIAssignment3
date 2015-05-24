@@ -1,0 +1,91 @@
+
+Majority of spam originates in the US
+2015-05-20 09:05 - Duncan Alfreds
+Post a comment 0
+share:
+
+Kaspersky Lab does real-time monitoring of malware from its headquarters in Moscow. (Duncan Alfreds, Fin24)
+RELATED ARTICLES
+
+    Beware fake online job ads - Gumtree
+    Cyber thieves eyeing your bank balance
+    Cyber criminals turn to 'sextortion' blackmail
+
+Cape Town - While global spam has declined slightly, the US remains the largest source of dodgy emails hitting inboxes around the world, a survey has found.
+
+According to research by security firm Kaspersky Lab, 14.5% of unwanted mail originated from the US in the first three months of 2015, followed by Russia (7.27%) and the Ukraine (5.56%).
+
+The company found that global spam declined by 6% to 59.2% of all email traffic, but there was a massive jump in the number of domains sending out spam and malicious email.
+
+Kaspersky hinted that the increase in spam from domain-level spam was related to the new top-level domain registration programme.
+
+"Emails sent from the .work domains generally contained offers to carry out various types of work including household maintenance, construction or equipment installation. On the other hand, many of the messages from the .science domains were advertising schools that offer distance learning, colleges to train nurses, criminal lawyers and other professionals," the company said.
+
+Old tricks
+
+Spam is also widely used in phishing attacks. These unsolicited messages are disguised as legitimate emails and usually direct the user to enter financial details that enable criminal enterprises to gather data and commit fraud.
+
+Typical phishing attacks are designed to steal financial information. (Duncan Alfreds, Fin24)
+
+Kaspersky said that its products registered over 50 million incidents of phishing over the period, one million more than the previous three months.
+
+"Phishing against customers of financial organisations accounted for 37.06% of all registered incidents," said the firm.
+
+Criminals use spam to deliver malware that could compromise computers, resulting in the machine being used to commit data fraud and stealing user information.
+
+Kaspersky's report said that spammers attempted to beat spam blockers by using a strategy of adding "white noise" to the unsolicited emails.
+
+Often, large blocks of text the same colour as the background is used so that the user doesn't see it, but filters assume that the message is legitimate.
+
+In terms of malware, spammers are reverting to old tricks such as using spam to distribute macro viruses - written into ostensibly benign documents.
+
+"Malicious emails contained attachments with a .doc or .xls extension. These launched the VBA script when the attachment was opened. This script downloaded and installed other malicious programs, such as the banking Trojan Cridex, in the system," the Kaspersky report says.
+
+Is email spam still out of control? Do you think you are receiving more spam than before? Tell us.
+
+Watch Dave Messett from Kaspersky Lab explain what types of malware are haunting the internet in this News24Live video:
+
+- Follow Duncan on Twitter
+Read more about: kaspersky lab  |  cybercrime
+
+ 
+You might also like
+
+ 
+More from Fin24
+
+    Marriage and money (Personal finance)
+    SA’s best and worst internet providers (Tech)
+    Milllenials skip banks, ask family for advice survey (Personal finance)
+    Simple steps to achieve financial freedom (Personal finance)
+    MTN warns of service disruptions ahead of strike (Tech) 
+
+Promoted Stories
+
+Recommended by
+
+share:
+More In This Category
+
+    Americans tweet, text, surf... while driving
+    SA scientists create cheap computers for schools
+    Local audio app helps cut data costs
+    Developers cool to Microsoft app overtures
+
+Read Fin24’s Comments Policy
+
+24.com publishes all comments posted on articles provided that they adhere to our Comments Policy. Should you wish to report a comment for editorial review, please do so by clicking the 'Report Comment' button to the right of each comment.
+Comment on this story
+0 comments
+Add your comment
+Comment 1500 characters remaining
+Most Popular
+Read
+Commented
+
+    Craig Venter to leave Altron
+    IN PICTURES: MTN workers launch strike action
+    Internet shaming could land you in jail
+    Striking employees threaten to cripple MTN if their demands are ignored
+    Union chants 'voetsek' to MTN execs
+
