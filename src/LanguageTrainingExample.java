@@ -7,7 +7,7 @@ import java.util.Hashtable;
 public class LanguageTrainingExample{
     static final String ALPHABET = "abcdefghijklmnopqrstuvwxyz";
 
-    public Hashtable<Character,Double> frequencies = new Hashtable<Character, Double>();
+    private Hashtable<Character,Double> frequencies = new Hashtable<Character, Double>();
     public String dataset;
     public double afrikaansClassification;
     public double englishClassification;
@@ -35,8 +35,40 @@ public class LanguageTrainingExample{
                 if(c == alphabetCharacter)
                     occurrences++;
             double characterFrequency = (double)occurrences/dataset.length();
+
+            //Scale the frequencies to the sigmoid activation function
+            //TODO: Make sure this is right
+            //System.out.println(characterFrequency);
+
             frequencies.put(alphabetCharacter,characterFrequency);
         }
+
+        double MaxFreq = frequencies.get('a');
+        double MinFreq = frequencies.get('a');
+
+        for(Character c : frequencies.keySet()){
+            double freq = frequencies.get(c);
+            if(freq > MaxFreq)
+                MaxFreq = freq;
+            if(freq < MinFreq)
+                MinFreq = freq;
+        }
+
+        for(Character c : frequencies.keySet()) {
+            frequencies.replace(c,(frequencies.get(c) - MinFreq) / (MaxFreq - MinFreq) * (Math.sqrt(3) - (-Math.sqrt(3))) + (-Math.sqrt(3)));
+        }
+
+
+
+    }
+
+    public ArrayList<Double> getInputValues(){
+        ArrayList<Double> result = new ArrayList<Double>();
+        for(Character c : frequencies.keySet()){
+            result.add(frequencies.get(c));
+        }
+        result.add(new Double(-1.0));
+        return result;
     }
 
 }

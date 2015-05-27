@@ -1,13 +1,15 @@
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Random;
 
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	    //Get a list of file names from the data directories
         ArrayList<String> afrikaansFiles = FileOperations.getFileNamesAt("./Training Data/Afrikaans",".txt");
         ArrayList<String> englishFiles = FileOperations.getFileNamesAt("./Training Data/English",".txt");
-        
+
+        //Read the data from each text file
         ArrayList<String> afrikaansRawDataSets = new ArrayList<String>();
         for(String afrikaansFile : afrikaansFiles){
             try {
@@ -25,29 +27,31 @@ public class Main {
                 System.out.println("Error reading data from : "+"./Training Data/Afrikaans"+englishFile);
             }
         }
+        ArrayList<LanguageTrainingExample> examples = new ArrayList<LanguageTrainingExample>();
 
-        ArrayList<LanguageTrainingExample> trainingExamples = new ArrayList<LanguageTrainingExample>();
-
+        //Create Training Examples
         for(String dataSet : afrikaansRawDataSets){
-            trainingExamples.add(new LanguageTrainingExample(dataSet,true,false));
+            examples.add(new LanguageTrainingExample(dataSet,true,false));
         }
 
         for(String dataSet: englishFiles){
-            trainingExamples.add(new LanguageTrainingExample(dataSet,false,true));
+            examples.add(new LanguageTrainingExample(dataSet,false,true));
         }
+
+        //Pre Processing phase
 
         DataPreProcessor preProcessor = new DataPreProcessor();
         preProcessor.addDataPrepStrategy(new CharacterOnlyFormatPrepStrategy());
-        preProcessor.applyTransforms(trainingExamples);
+        preProcessor.applyTransforms(examples);
 
-        for(LanguageTrainingExample example : trainingExamples) {
-            example.calculateFrequencies();
-            System.out.println(example.frequencies.toString());
-        }
+        //Calculate the frequencies after pre-processing
+        for(LanguageTrainingExample ex : examples)
+            ex.calculateFrequencies();
 
-        NeuralNetwork network = new NeuralNetwork(10,0.9,0.2,10,new Bias(),new SigmoidActivationFunction());
 
-        System.out.println(network.toString());
+        ExperimentalTesting experimentalTesting = new ExperimentalTesting(examples,0.8);
+        experimentalTesting.generateTrainingData();
+
 
 
 

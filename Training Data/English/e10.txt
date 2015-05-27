@@ -1,0 +1,62 @@
+    Thousands of people have come together to demand justice for Alan Turing and recognition of the appalling way he was treated. While Turing was dealt with under the law of the time and we can't put the clock back, his treatment was of course utterly unfair and I am pleased to have the chance to say how deeply sorry I and we all are for what happened to him ... So on behalf of the British government, and all those who live freely thanks to Alan's work I am very proud to say: we're sorry, you deserved so much better.[161][164]
+
+In December 2011, William Jones created an e-petition[165] requesting the British Government pardon Turing for his conviction of "gross indecency":[166]
+
+    We ask the HM Government to grant a pardon to Alan Turing for the conviction of "gross indecency". In 1952, he was convicted of "gross indecency" with another man and was forced to undergo so-called "organo-therapy" – chemical castration. Two years later, he killed himself with cyanide, aged just 41. Alan Turing was driven to a terrible despair and early death by the nation he'd done so much to save. This remains a shame on the UK government and UK history. A pardon can go to some way to healing this damage. It may act as an apology to many of the other gay men, not as well-known as Alan Turing, who were subjected to these laws.[167]
+
+The petition gathered over 37,000 signatures,[11][165] but the request was discouraged by Lord McNally, who gave the following opinion in his role as the Justice Minister:[168]
+
+    A posthumous pardon was not considered appropriate as Alan Turing was properly convicted of what at the time was a criminal offence. He would have known that his offence was against the law and that he would be prosecuted. It is tragic that Alan Turing was convicted of an offence which now seems both cruel and absurd—particularly poignant given his outstanding contribution to the war effort. However, the law at the time required a prosecution and, as such, long-standing policy has been to accept that such convictions took place and, rather than trying to alter the historical context and to put right what cannot be put right, ensure instead that we never again return to those times.[169]
+
+On 26 July 2012, a bill was introduced in the House of Lords to grant a statutory pardon to Turing for offences under section 11 of the Criminal Law Amendment Act 1885, of which he was convicted on 31 March 1952.[170] Late in the year in a letter to The Daily Telegraph, the physicist Stephen Hawking and 10 other signatories including the Astronomer Royal Lord Rees, President of the Royal Society Sir Paul Nurse, Lady Trumpington (who worked for Turing during the war), and Lord Sharkey (the bill's sponsor) called on Prime Minister David Cameron to act on the pardon request.[171] The Government indicated it would support the bill,[172][173][174] and it passed its third reading in the Lords in October.[175]
+	Wikinews has related news: Alan Turing given posthumous pardon
+
+Before the bill could be debated in the House of Commons,[176] the Government elected to proceed under the royal prerogative of mercy. On 24 December 2013, Queen Elizabeth II signed a pardon[10] for Turing's conviction for gross indecency, with immediate effect. Announcing the pardon, Justice Secretary Chris Grayling said Turing deserved to be "remembered and recognised for his fantastic contribution to the war effort" and not for his later criminal conviction.[9][11] The Queen officially pronounced Turing pardoned in August 2014.[177] The Queen's action is only the fourth royal pardon granted since the conclusion of World War II.[178] This case is unusual in that pardons are normally granted only when the person is technically innocent, and a request has been made by the family or other interested party. Neither condition was met in regard to Turing's conviction.[179]
+
+In a letter to Prime Minister David Cameron after announcement of the pardon, human rights advocate Peter Tatchell criticised the decision to single out Turing due to his fame and achievements, when thousands of others convicted under the same law have not received pardons.[180] Tatchell also called for a new investigation into Turing's death:
+
+    A new inquiry is long overdue, even if only to dispel any doubts about the true cause of his death – including speculation that he was murdered by the security services (or others). I think murder by state agents is unlikely. There is no known evidence pointing to any such act. However, it is a major failing that this possibility has never been considered or investigated.[181]
+
+Centenary celebrations
+Main article: Alan Turing Year
+David Chalmers on stage for an Alan Turing Year conference at De La Salle University, Manila, 27 March 2012
+
+To mark the 100th anniversary of Turing's birth, the Turing Centenary Advisory Committee (TCAC) co-ordinated the Alan Turing Year, a year-long programme of events around the world honouring Turing's life and achievements. The TCAC, chaired by S. Barry Cooper with Alan Turing's nephew Sir John Dermot Turing acting as Honorary President, worked with the University of Manchester faculty members and a broad spectrum of people from Cambridge University and Bletchley Park.
+
+On 23 June 2012, Google featured an interactive doodle where visitors had to change the instructions of a Turing Machine, so when run, the symbols on the tape would match a provided sequence, featuring "Google" in Baudot-Murray code.[182]
+
+The Bletchley Park Trust collaborated with Winning Moves to publish an Alan Turing edition of the board game Monopoly. The game's squares and cards have been revised to tell the story of Alan Turing's life, from his birthplace in Maida Vale to Hut 8 at Bletchley Park.[183] The game also includes a replica of an original hand-drawn board created by William Newman, son of Turing's mentor, Max Newman, which Turing played on in the 1950s.[184]
+
+In the Philippines, the Department of Philosophy at De La Salle University-Manila hosted Turing 2012, an international conference on philosophy, artificial intelligence, and cognitive science from 27 to 28 March 2012 to commemorate the centenary birth of Turing.[185][186] Madurai, India held celebrations, in conjunction with Asia's first Gay Pride festival, with a programme attended by 6000 students.[187]
+UK celebrations
+The London 2012 Olympic Torch flame was passed on in front of Turing's statue in Manchester on his 100th birthday.
+
+There was a three-day conference in Manchester in June, a two-day conference in San Francisco, organised by the ACM, and a birthday party and Turing Centenary Conference in Cambridge organised at King's College, Cambridge and the University of Cambridge, the latter organised by the association Computability in Europe.[188]
+
+The Science Museum in London launched a free exhibition devoted to Turing's life and achievements in June 2012, to run until July 2013.[189] In February 2012, the Royal Mail issued a stamp featuring Turing as part of its "Britons of Distinction" series.[190] The London 2012 Olympic Torch flame was passed on in front of Turing's statue in Sackville Gardens, Manchester, on the evening of 23 June 2012, the 100th anniversary of his birth.
+
+On 22 June 2012 Manchester City Council, in partnership with the Lesbian and Gay Foundation, launched the Alan Turing Memorial Award which will recognise individuals or groups who have made a significant contribution to the fight against homophobia in Manchester.[191]
+
+At the University of Oxford, a new course in Computer Science and Philosophy was established to coincide with the centenary of Turing's birth.[192]
+
+Previous events have included a celebration of Turing's life and achievements, at the University of Manchester, arranged by the British Logic Colloquium and the British Society for the History of Mathematics on 5 June 2004.[193]
+Portrayal in adaptations
+Benedict Cumberbatch portrayed Turing in the film The Imitation Game (2014).
+
+Breaking the Code is a 1986 play by Hugh Whitemore about Alan Turing. The play ran in London's West End beginning in November 1986 and on Broadway from 15 November 1987 to 10 April 1988. There was also a 1996 BBC television production (broadcast in the United States by PBS). In all three performances Turing was played by Derek Jacobi. The Broadway production was nominated for three Tony Awards including Best Actor in a Play, Best Featured Actor in a Play, and Best Direction of a Play, and for two Drama Desk Awards, for Best Actor and Best Featured Actor. Turing was again portrayed by Jacobi in the 1996 television movie adaptation of Breaking the Code.[194]
+
+The drama-documentary Codebreaker, about Turing's life, was aired by UK's Channel 4 in November 2011 and was released in the US in October 2012. It is also known as Britain's Greatest Codebreaker. The film features Ed Stoppard as Turing and Henry Goodman as Franz Greenbaum.[195]
+
+Electronic music duo Matmos released an EP titled For Alan Turing in 2006, which was based on material commissioned by Dr. Robert Osserman and David Elsenbud of the Mathematical Sciences Research Institute.[196] In one of its tracks, an original Enigma Machine is sampled.[197]
+
+In 2012, in honor of the Turing Centennial, American Lyric Theater commissioned an operatic exploration of the life and death of Alan Turing from composer Justine F. Chen and librettist David Simpatico.[198] Titled The Life and Death(s) of Alan Turing, the opera is a historical fantasia on the life of the brilliant scientist. The opera will receive a concert performance in October 2015 in NYC. In November 2014, the opera and several other artistic works inspired by Turing's life were featured on Studio 360.[199]
+
+In 2012, Spanish group Hidrogenesse dedicated their LP Un dígito binario dudoso. Recital para Alan Turing (A dubious binary digit. Concert for Alan Turing) to the memory of the mathematician.[200]
+
+A musical work inspired by Turing's life, written by Neil Tennant and Chris Lowe of the Pet Shop Boys, entitled A Man from the Future, was announced in late 2013.[201] It was performed by the Pet Shop Boys and Juliet Stevenson (narrator), the BBC Singers, and the BBC Concert Orchestra conducted by Dominic Wheeler at the BBC Proms in the Royal Albert Hall on 23 July 2014.[202]
+
+Codebreaker is also the title of a choral work by the composer James McCarthy. It includes settings of texts by the poets Wilfred Owen, Sara Teasdale, Walt Whitman, Oscar Wilde and Robert Burns that are used to illustrate aspects of Turing's life. It was premiered on 26 April 2014 at the Barbican Centre in London, where it was performed by the Hertfordshire Chorus, who commissioned the work, led by David Temple with the soprano soloist Naomi Harvey providing the voice of Turing's mother.[203][204]
+
+The historical drama film The Imitation Game, directed by Morten Tyldum and starring Benedict Cumberbatch as Turing and Keira Knightley as Joan Clarke, was released in the UK on 14 November 2014 and released theatrically in the US on 28 November 2014. It is about Alan Turing breaking the Enigma code with other codebreakers in Bletchley Park.[205][206][207][208]
+
+The 2006 novel A Madman Dreams of Turing Machines contrasts fictionalized accounts of the lives and ideas of Turing and Kurt Gödel.[209]
