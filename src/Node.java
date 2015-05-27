@@ -11,6 +11,7 @@ public class Node {
     public double errorSignal;
     public String label;
     private boolean isBias;
+    public double Ak = -1.0;
 
     public Node(ArrayList<Edge> weightsIn, ArrayList<Edge> weightsOut, ActivationFunction func,String label) {
         this.weightsIn = weightsIn;

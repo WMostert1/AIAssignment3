@@ -2,20 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f175251-0d18-44f1-bd51-4477309e848b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ExperimentalTesting.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NetworkConfiguration.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training Data/Afrikaans/gedig.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training Data/English/peom.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AIAssignment3/Edge.class" afterPath="$PROJECT_DIR$/out/production/AIAssignment3/Edge.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AIAssignment3/LanguageTrainingExample.class" afterPath="$PROJECT_DIR$/out/production/AIAssignment3/LanguageTrainingExample.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AIAssignment3/Main.class" afterPath="$PROJECT_DIR$/out/production/AIAssignment3/Main.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.~lock.test.ods#" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AIAssignment3/ExperimentalTesting.class" afterPath="$PROJECT_DIR$/out/production/AIAssignment3/ExperimentalTesting.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AIAssignment3/NeuralNetwork.class" afterPath="$PROJECT_DIR$/out/production/AIAssignment3/NeuralNetwork.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AIAssignment3/Node.class" afterPath="$PROJECT_DIR$/out/production/AIAssignment3/Node.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Edge.java" afterPath="$PROJECT_DIR$/src/Edge.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.ods" afterPath="$PROJECT_DIR$/test.ods" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/u13019695.odt" afterPath="$PROJECT_DIR$/u13019695.odt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.~lock.u13019695.odt#" afterPath="$PROJECT_DIR$/.~lock.u13019695.odt#" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ExperimentalTesting.java" afterPath="$PROJECT_DIR$/src/ExperimentalTesting.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/LanguageTrainingExample.java" afterPath="$PROJECT_DIR$/src/LanguageTrainingExample.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/NeuralNetwork.java" afterPath="$PROJECT_DIR$/src/NeuralNetwork.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Node.java" afterPath="$PROJECT_DIR$/src/Node.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/one.csv" afterPath="$PROJECT_DIR$/one.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AIAssignment3.iws" />
@@ -42,11 +41,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="428" max-vertical-offset="975">
-              <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.6970297" vertical-offset="428" max-vertical-offset="975">
+              <caret line="52" column="50" selection-start-line="52" selection-start-column="50" selection-end-line="52" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -54,13 +53,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExperimentalTesting.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ExperimentalTesting.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ExperimentalTesting.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21091811" vertical-offset="160" max-vertical-offset="1905">
-              <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="635" max-vertical-offset="1965">
+              <caret line="64" column="62" selection-start-line="64" selection-start-column="62" selection-end-line="64" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2015#2016#0" expanded="true" />
+                <element signature="e#2085#2086#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -79,8 +80,8 @@
       <file leaf-file-name="NeuralNetwork.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/NeuralNetwork.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="6.5454545" vertical-offset="1455" max-vertical-offset="3660">
-              <caret line="73" column="8" selection-start-line="73" selection-start-column="8" selection-end-line="73" selection-end-column="8" />
+            <state vertical-scroll-proportion="7.090909" vertical-offset="2205" max-vertical-offset="3660">
+              <caret line="121" column="40" selection-start-line="121" selection-start-column="40" selection-end-line="121" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,8 +92,18 @@
       <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="325" max-vertical-offset="885">
-              <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="4" max-vertical-offset="900">
+              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SigmoidActivationFunction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SigmoidActivationFunction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -103,16 +114,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
               <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataPrepStrategy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DataPrepStrategy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -131,8 +132,8 @@
       <file leaf-file-name="LanguageTrainingExample.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LanguageTrainingExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="397" max-vertical-offset="1200">
-              <caret line="57" column="141" selection-start-line="57" selection-start-column="141" selection-end-line="57" selection-end-column="141" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="125" max-vertical-offset="1200">
+              <caret line="71" column="5" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -143,7 +144,7 @@
       <file leaf-file-name="FileOperations.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FileOperations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="505" max-vertical-offset="1065">
+            <state vertical-scroll-proportion="0.0" vertical-offset="259" max-vertical-offset="1065">
               <caret line="62" column="23" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -172,13 +173,13 @@
         <option value="$PROJECT_DIR$/src/ActivationFunction.java" />
         <option value="$PROJECT_DIR$/src/SigmoidActivationFunction.java" />
         <option value="$PROJECT_DIR$/src/Bias.java" />
-        <option value="$PROJECT_DIR$/src/Node.java" />
         <option value="$PROJECT_DIR$/src/Edge.java" />
         <option value="$PROJECT_DIR$/src/NetworkConfiguration.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/LanguageTrainingExample.java" />
+        <option value="$PROJECT_DIR$/src/Node.java" />
         <option value="$PROJECT_DIR$/src/NeuralNetwork.java" />
+        <option value="$PROJECT_DIR$/src/LanguageTrainingExample.java" />
         <option value="$PROJECT_DIR$/src/ExperimentalTesting.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
@@ -186,7 +187,7 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1" />
+    <option name="x" value="33" />
     <option name="y" value="22" />
     <option name="width" value="1890" />
     <option name="height" value="992" />
@@ -553,16 +554,16 @@
       <workItem from="1432500967378" duration="3240000" />
       <workItem from="1432558380751" duration="3057000" />
       <workItem from="1432654845132" duration="438000" />
-      <workItem from="1432676671608" duration="21585000" />
+      <workItem from="1432676671608" duration="26066000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41381000" />
+    <option name="totallyTimeSpent" value="45862000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="22" width="1890" height="992" extended-state="0" />
-    <editor active="false" />
+    <frame x="33" y="22" width="1890" height="992" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -584,8 +585,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16450216" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.07333333" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16450216" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4077778" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -953,47 +954,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SigmoidActivationFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Bias.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="428" max-vertical-offset="975">
-          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FileOperations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="475" max-vertical-offset="1065">
-          <caret line="62" column="23" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1591#1599#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="885">
-          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -1022,13 +986,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LanguageTrainingExample.java">
+    <entry file="file://$PROJECT_DIR$/src/FileOperations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="397" max-vertical-offset="1200">
-          <caret line="57" column="141" selection-start-line="57" selection-start-column="141" selection-end-line="57" selection-end-column="141" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="475" max-vertical-offset="1065">
+          <caret line="62" column="23" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1591#1599#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4" max-vertical-offset="900">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1040,10 +1013,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/SigmoidActivationFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LanguageTrainingExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="125" max-vertical-offset="1200">
+          <caret line="71" column="5" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/NeuralNetwork.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="6.5454545" vertical-offset="1455" max-vertical-offset="3660">
-          <caret line="73" column="8" selection-start-line="73" selection-start-column="8" selection-end-line="73" selection-end-column="8" />
+        <state vertical-scroll-proportion="7.090909" vertical-offset="2205" max-vertical-offset="3660">
+          <caret line="121" column="40" selection-start-line="121" selection-start-column="40" selection-end-line="121" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1052,8 +1043,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ExperimentalTesting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21091811" vertical-offset="160" max-vertical-offset="1905">
-          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="635" max-vertical-offset="1965">
+          <caret line="64" column="62" selection-start-line="64" selection-start-column="62" selection-end-line="64" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2015#2016#0" expanded="true" />
+            <element signature="e#2085#2086#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6970297" vertical-offset="428" max-vertical-offset="975">
+          <caret line="52" column="50" selection-start-line="52" selection-start-column="50" selection-end-line="52" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

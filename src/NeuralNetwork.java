@@ -109,17 +109,17 @@ public class NeuralNetwork{
                     }
                     outputNode.f(net);
                     if(outputNode.nodeValue >= 0.7){
-                        outputNode.nodeValue = 1.0;
+                        outputNode.Ak = 1.0;
                     }
                     else if(outputNode.nodeValue <= 0.3){
-                        outputNode.nodeValue = 0.0;
+                        outputNode.Ak = 0.0;
                     }
                 }
 
                 double accuracy = 1.0;
-                if(outputLayer.get(0).nodeValue != trainingExample.afrikaansClassification)
+                if(outputLayer.get(0).Ak != trainingExample.afrikaansClassification)
                     accuracy = 0.0;
-                if(outputLayer.get(1).nodeValue != trainingExample.englishClassification)
+                if(outputLayer.get(1).Ak != trainingExample.englishClassification)
                     accuracy = 0.0;
 
                 trainingAccuracy += accuracy;

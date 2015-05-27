@@ -61,14 +61,18 @@ public class ExperimentalTesting {
 
     }
 
-    public void generateTrainingData(){
+    public void generateCompleteSet(){
+        generateTrainingData(1,0.98,0.07,100,"Figure2(1).csv");
+    }
+
+    public void generateTrainingData(int hiddenNodes,double momentum,double learningRate,int maxEpochs,String fileName){
         //Hidden nodes, momentum, learningRate, maxEpochs
-        NetworkConfiguration bestConfig = new NetworkConfiguration();
-        for(int hiddenNodes = 0; hiddenNodes <= 10;hiddenNodes++) {
-            System.out.println((hiddenNodes/20.0)*100+"%");
-            for(double momentum = 0.98; momentum <= 0.98; momentum+=0.01) {
-                for(double learningRate = 0.07; learningRate <= 0.07; learningRate += 0.01) {
-                    for(int maxEpochs = 150; maxEpochs <= 150; maxEpochs++) {
+//        NetworkConfiguration bestConfig = new NetworkConfiguration();
+//        for(int hiddenNodes = 1; hiddenNodes <= 1;hiddenNodes++) {
+//            System.out.println((hiddenNodes/20.0)*100+"%");
+//            for(double momentum = 0.98; momentum <= 0.98; momentum+=0.01) {
+//                for(double learningRate = 0.07; learningRate <= 0.07; learningRate += 0.01) {
+//                    for(int maxEpochs = 25; maxEpochs <= 25; maxEpochs++) {
                         //Shuffle the generalization and training examples
                         trainingExamples = new ArrayList<LanguageTrainingExample>();
                         generalizationExamples = new ArrayList<LanguageTrainingExample>();
@@ -88,7 +92,7 @@ public class ExperimentalTesting {
                                 generalizationExamples.add(ex);
                         }
                         //Run configuration test
-                        String [] finalResults = new String[100+1];
+                        String [] finalResults = new String[maxEpochs+1];
                         for(int i =0 ; i < finalResults.length;i++)
                             finalResults[i] = "";
                         final int MAX_COUNT = 50;
@@ -109,13 +113,13 @@ public class ExperimentalTesting {
                         for(int i = 1; i<finalResults.length;i++){
                             finalResult += finalResults[i]+","+getExcelAveragesFormula(MAX_COUNT,i-1)+"\n";
                         }
-                        //System.out.println(finalResult);
-                        FileOperations.writeToFile(finalResult,"one.csv");
-                        return;
 
-                    }
-                }
-            }
-        }
+                        FileOperations.writeToFile(finalResult,fileName);
+
+
+//                    }
+//                }
+//            }
+//        }
     }
 }

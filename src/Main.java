@@ -50,7 +50,7 @@ public class Main {
 
 
         ExperimentalTesting experimentalTesting = new ExperimentalTesting(examples,0.8);
-        experimentalTesting.generateTrainingData();
+        experimentalTesting.generateCompleteSet();
 
 
 

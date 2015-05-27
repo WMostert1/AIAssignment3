@@ -67,7 +67,7 @@ public class LanguageTrainingExample{
         for(Character c : frequencies.keySet()){
             result.add(frequencies.get(c));
         }
-        result.add(new Double(-1.0));
+        result.add(-1.0);
         return result;
     }
 
