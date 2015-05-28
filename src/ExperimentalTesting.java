@@ -62,7 +62,27 @@ public class ExperimentalTesting {
     }
 
     public void generateCompleteSet(){
-        generateTrainingData(1,0.98,0.07,100,"Figure2(1).csv");
+        //generateTrainingData(1,0.98,0.07,100,"Figure2(1).csv");
+        int counter = 0;
+//        for(double momentum = 0.0; momentum <= 1.0; momentum += 0.1){
+//            generateTrainingData(1,momentum,0.07,100,"PM"+(counter++)+".csv");
+//        }
+//        counter = 0;
+//        for(double momentum = 0.9; momentum <= 1.0; momentum += 0.01){
+//            generateTrainingData(1,momentum,0.07,30,"PA"+(counter++)+".csv");
+//        }
+
+//        counter = 0;
+//        for(double learningRate = 0.0; learningRate <= 1.0; learningRate += 0.1){
+//            generateTrainingData(1,0.98,learningRate,30,"PL"+(counter++)+".csv");
+//        }
+
+        counter = 0;
+        for(int hiddenNodes = 1; hiddenNodes <= 52; hiddenNodes ++){
+            generateTrainingData(hiddenNodes,0.98,0.2,30,"PH"+(counter++)+".csv");
+        }
+
+        System.out.println("Data Generated");
     }
 
     public void generateTrainingData(int hiddenNodes,double momentum,double learningRate,int maxEpochs,String fileName){
